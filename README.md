@@ -1,11 +1,11 @@
 # Sharif-00112
 
 <h1 align="center">Hi There! I'm Md Sharif Hossain</h1>
-<h3 align="center">A professional MERN-Stack developer and IT specialist</h3>
+<h3 align="center">A professional web and software developer and IT specialist</h3>
 <br/>
 
 - I'm currently working at Bengal Group of Industries, Gulshan-1, Dhaka, Bangladesh
-- Reach me at "sh.hossain.24@gmail.com"
+- Reach me at ["sharif-hossain.com"](https://sharif-hossain.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharif-00112&label=Profile%20views&color=0e75b6&style=flat" alt="Sharif-00112" /> </p>
 
