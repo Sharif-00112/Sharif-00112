@@ -1,7 +1,7 @@
 # Sharif-00112
 
 <h1 align="center">Hi There! I'm Md Sharif Hossain</h1>
-<h3 align="center">A professional web and software developer and IT specialist</h3>
+<h3 align="center">A professional web and software developer</h3>
 <br/>
 
 - I'm currently working at Bengal Group of Industries, Gulshan-1, Dhaka, Bangladesh
