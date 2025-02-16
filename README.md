@@ -4,7 +4,7 @@
 <h3 align="center">A professional web and software developer</h3>
 <br/>
 
-- I'm currently working at Bengal Group of Industries, Gulshan-1, Dhaka, Bangladesh
+- I'm currently working at Pandughar Group, Gulshan-2, Dhaka, Bangladesh
 - Reach me at ["sharif-hossain.com"](https://sharif-hossain.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sharif-00112&label=Profile%20views&color=0e75b6&style=flat" alt="Sharif-00112" /> </p>
